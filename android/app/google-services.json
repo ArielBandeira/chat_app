@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "34643519457",
+    "project_id": "chat-96788",
+    "storage_bucket": "chat-96788.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34643519457:android:d7dea19b3054bcf1b554a0",
+        "android_client_info": {
+          "package_name": "br.edu.ifce.pdm.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34643519457-qrif8vobco8cv9ta15d79vncajec4o3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT9MWSMakB9xbRZ1TEJSy0LAIrSVr_WGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34643519457-qrif8vobco8cv9ta15d79vncajec4o3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
